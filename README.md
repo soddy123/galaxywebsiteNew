@@ -54,7 +54,8 @@ bash
 
 🌟 Demo
 
-Check out the live demo of the website: Demo Link
+Check out the live demo of the website: [Demo Link](https://galaxywebsite4321.netlify.app
+)
 🤝 Contribution
 
 Feel free to fork the repository and submit pull requests. If you find any issues, please open an issue on GitHub.
